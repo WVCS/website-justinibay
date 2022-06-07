@@ -1,3 +1,40 @@
-body {
-
+body{
+ background-color:#C490D1; 
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 200%;
+}
+h1{
+   color:black;
+   font-size:300%;
+   letter-spacing: 3px;
+   text-decoration-line: underline;
+   font-family: Fantasy, Copperplate;
+}
+p{
+  font-size:200%;
+  
+}
+img{
+  width:50%;
+  border:outset 10px;
+}
+ul{
+  list-style-type: none;
+  width: 100%;
+  text-align: center;
+  
+}
+li{
+  Float: left;
+}
+li a:hover{
+  background-color: white;
+}
+li a {
+  padding: 30px;
+  font-size: 140%;
+  color: black;
+  border-style: dotted;
+  text-align: center;
 }
